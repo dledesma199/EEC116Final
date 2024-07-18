@@ -4,3 +4,14 @@ The goal was to create the design and layout of a chip which finds the maximum v
 <img width="324" alt="116FinalProject" src="https://github.com/user-attachments/assets/47d96816-6899-418e-8aa3-a3c4b9671962">
 
 The entire logic of the chip is located in the core.mag file and testcore.mag was created to run against a script given by the TA to test the core logic.
+The project was graded on:
+  - Clock Tree driver: Calculations and transistor schematic with widths
+  - Output Pad driver: Calculations and transistor schematic with widths
+  - Floorplan showing the location of each block in core.mag
+  - Complete Magic Layout of core.mag demonstrated to TA and all *.mag files uploaded
+  - Complete Magic Layout of chip.mag demonstrated to TA and all *.mag files uploaded
+  - Core.mag, test sequence demonstrated to TA
+  - Top.mag, test sequence demonstrated to TA
+  - Measured maximum clock rate of top.mag
+
+The submitted project had completed the logic of core.mag with clock Driver completed. The rest, due to time constraints, could not be completed.
