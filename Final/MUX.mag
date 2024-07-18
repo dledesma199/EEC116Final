@@ -1,0 +1,46 @@
+magic
+tech scmos
+timestamp 1702334539
+<< metal1 >>
+rect -36 46 130 49
+rect -36 41 -33 46
+rect -14 23 0 28
+rect 77 23 91 28
+rect 125 23 133 28
+rect -36 -4 -33 0
+rect -36 -8 130 -4
+<< m2contact >>
+rect 32 23 37 28
+rect 16 15 21 20
+rect 61 15 66 20
+rect 106 15 111 20
+<< metal2 >>
+rect 32 34 111 39
+rect 32 28 37 34
+rect 106 20 111 34
+rect 16 14 21 15
+rect -33 9 21 14
+rect 61 5 66 15
+rect -33 0 66 5
+<< m123contact >>
+rect 44 23 49 28
+rect -30 18 -25 23
+<< metal3 >>
+rect -30 23 44 28
+use 2inv  2inv_0
+timestamp 1701843227
+transform 1 0 -540 0 1 -13
+box 506 8 535 59
+use 2NAND  2NAND_0
+array 0 2 45 0 0 51
+timestamp 1702148372
+transform 1 0 14 0 1 34
+box -19 -39 26 12
+<< labels >>
+rlabel metal2 -32 11 -32 11 3 a
+rlabel metal2 -32 2 -32 2 3 b
+rlabel metal3 -29 25 -29 25 3 S
+rlabel metal1 132 25 132 25 7 Max
+rlabel metal1 -35 43 -35 43 4 Vdd
+rlabel metal1 -35 -3 -35 -3 2 Gnd
+<< end >>

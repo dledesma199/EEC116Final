@@ -1,0 +1,33 @@
+magic
+tech scmos
+timestamp 1702318452
+<< metal5 >>
+rect -15 1688 0 1693
+rect -15 1546 -7 1688
+rect -15 1541 0 1546
+rect -15 1399 -7 1541
+rect -15 1394 0 1399
+rect -15 1252 -7 1394
+rect -15 1247 0 1252
+rect -15 1105 -7 1247
+rect -15 1100 0 1105
+rect -15 958 -7 1100
+rect -15 953 0 958
+rect -15 811 -7 953
+rect -15 806 0 811
+rect -15 664 -7 806
+rect -15 659 0 664
+rect -15 517 -7 659
+rect -15 512 0 517
+rect -15 370 -7 512
+rect -15 365 0 370
+rect -15 223 -7 365
+rect -15 218 0 223
+rect -15 76 -7 218
+rect -15 71 0 76
+use SFF  SFF_0
+array 0 0 1 0 11 147
+timestamp 1702318452
+transform 1 0 126 0 1 89
+box -126 -89 293 52
+<< end >>

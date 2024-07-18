@@ -1,0 +1,12 @@
+magic
+tech scmos
+timestamp 1702334983
+use MUX  MUX_1
+timestamp 1702334539
+transform 1 0 36 0 -1 98
+box -36 -8 133 49
+use MUX  MUX_0
+timestamp 1702334539
+transform 1 0 36 0 1 8
+box -36 -8 133 49
+<< end >>

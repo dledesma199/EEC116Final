@@ -1,0 +1,63 @@
+magic
+tech scmos
+timestamp 1701901221
+<< ntransistor >>
+rect -41 28 -39 34
+<< ptransistor >>
+rect -41 86 -39 93
+<< ndiffusion >>
+rect -53 33 -41 34
+rect -48 28 -41 33
+rect -39 29 -30 34
+rect -39 28 -25 29
+<< pdiffusion >>
+rect -48 88 -41 93
+rect -53 86 -41 88
+rect -39 91 -25 93
+rect -39 86 -30 91
+<< ndcontact >>
+rect -53 28 -48 33
+rect -30 29 -25 34
+<< pdcontact >>
+rect -53 88 -48 93
+rect -30 86 -25 91
+<< polysilicon >>
+rect -41 93 -39 96
+rect -41 59 -39 86
+rect -41 34 -39 55
+rect -41 25 -39 28
+<< polycontact >>
+rect -43 55 -39 59
+rect 830 58 834 62
+rect 876 60 880 64
+<< metal1 >>
+rect -69 102 18 110
+rect 788 102 811 110
+rect 853 102 857 110
+rect -59 55 -43 59
+rect -30 48 -25 86
+rect 825 58 830 62
+rect 853 60 876 64
+rect -30 44 0 48
+rect -30 34 -25 44
+rect -69 12 18 20
+rect 788 12 811 20
+rect 853 12 857 20
+<< m2contact >>
+rect 715 57 720 62
+rect 820 57 825 62
+<< metal2 >>
+rect 720 57 820 62
+use FullAdder  FullAdder_0
+timestamp 1701039862
+transform 1 0 54 0 1 3
+box -54 -3 754 115
+use inverterThick  inverterThick_0
+timestamp 1701044178
+transform 1 0 825 0 1 80
+box -14 -68 28 30
+use inverterThick  inverterThick_1
+timestamp 1701044178
+transform 1 0 871 0 1 80
+box -14 -68 28 30
+<< end >>

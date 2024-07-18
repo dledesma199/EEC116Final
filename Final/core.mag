@@ -1,0 +1,316 @@
+magic
+tech scmos
+timestamp 1702571561
+<< metal1 >>
+rect -33 7009 27 7014
+rect -37 6862 27 6867
+rect -28 6715 27 6720
+rect -60 6568 27 6573
+rect -80 6421 27 6426
+rect -25 6274 27 6279
+rect -31 6127 27 6132
+rect -38 5980 27 5985
+rect -32 5833 27 5838
+rect -31 5686 27 5691
+rect -23 5539 27 5544
+rect -39 5392 27 5397
+rect 958 3484 1190 3492
+rect 959 3422 1192 3430
+rect 958 3337 1194 3345
+rect 959 3275 1215 3283
+rect 958 3190 1216 3198
+rect 959 3128 1229 3136
+rect 958 3043 1212 3051
+rect 959 2981 1224 2989
+rect 958 2896 1220 2904
+rect 958 2834 1225 2842
+rect 958 2749 1210 2757
+rect 959 2687 1229 2695
+rect 956 2602 1247 2610
+rect 956 2540 1216 2548
+rect 958 2455 1210 2463
+rect 959 2393 1244 2401
+rect 958 2308 1215 2316
+rect 959 2246 1235 2254
+rect 956 2161 1207 2169
+rect 958 2099 1228 2107
+rect 958 2014 1245 2022
+rect 959 1952 1193 1960
+rect 956 1867 1206 1875
+rect 958 1805 1199 1813
+rect 415 1791 437 1799
+<< metal2 >>
+rect 447 7009 452 7014
+<< m123contact >>
+rect 437 1791 442 1799
+<< metal3 >>
+rect 442 1791 447 1799
+<< metal4 >>
+rect 8 3339 34 3347
+<< m345contact >>
+rect 447 1791 452 1799
+<< m5contact >>
+rect 0 3339 8 3347
+rect 34 3339 42 3347
+<< metal5 >>
+rect 535 7106 1615 7114
+rect 535 7032 543 7106
+rect 1072 7032 1080 7106
+rect 1607 7032 1615 7106
+rect 0 3347 8 5410
+rect 1607 3463 1615 5410
+rect 1597 3455 1615 3463
+rect 535 3405 1597 3413
+rect 42 3339 543 3347
+rect 535 1799 543 1841
+rect 452 1791 543 1799
+rect 535 1766 543 1791
+rect 1597 1766 1605 1862
+rect 535 1758 1605 1766
+rect 1460 1693 1468 1758
+use clockdriver  clockdriver_0
+timestamp 1702508064
+transform 1 0 179 0 1 1824
+box -11 -67 249 28
+use FinalSchem  FinalSchem_0
+timestamp 1702571561
+transform 1 0 -4 0 1 3636
+box 4 -3636 2144 3461
+<< labels >>
+rlabel metal1 -32 7012 -32 7012 1 a0
+rlabel metal1 -35 6863 -35 6863 1 a1
+rlabel metal1 -26 6717 -26 6717 1 a2
+rlabel metal1 -59 6570 -59 6570 1 a3
+rlabel metal1 -78 6423 -78 6423 3 a4
+rlabel metal1 -23 6277 -23 6277 1 a5
+rlabel metal1 -29 6129 -29 6129 1 a6
+rlabel metal1 -34 5983 -34 5983 1 a7
+rlabel metal1 -29 5835 -29 5835 1 a8
+rlabel metal1 -26 5689 -26 5689 1 a9
+rlabel metal1 -19 5540 -19 5540 1 aa
+rlabel metal1 -36 5394 -36 5394 1 ab
+rlabel space 439 7020 439 7020 1 a10
+rlabel space 436 6863 436 6863 1 a11
+rlabel space 437 6716 437 6716 1 a12
+rlabel space 435 6570 435 6570 1 a13
+rlabel space 435 6423 435 6423 1 a14
+rlabel space 434 6276 434 6276 1 a15
+rlabel space 433 6129 433 6129 1 a16
+rlabel space 434 5982 434 5982 1 a17
+rlabel space 433 5837 433 5837 1 a18
+rlabel space 435 5687 435 5687 1 a19
+rlabel space 430 5541 430 5541 1 a1a
+rlabel space 432 5394 432 5394 1 a1b
+rlabel space 967 7013 967 7013 1 a20
+rlabel space 969 6863 969 6863 1 a21
+rlabel space 967 6717 967 6717 1 a22
+rlabel space 967 6570 967 6570 1 a23
+rlabel space 966 6424 966 6424 1 a24
+rlabel space 966 6276 966 6276 1 a25
+rlabel space 967 6128 967 6128 1 a26
+rlabel space 966 5981 966 5981 1 a27
+rlabel space 967 5834 967 5834 1 a28
+rlabel space 966 5688 966 5688 1 a29
+rlabel space 966 5542 966 5542 1 a2a
+rlabel space 961 5401 961 5401 1 a2b
+rlabel space 1522 7011 1522 7011 1 a30
+rlabel space 1510 6863 1510 6863 1 a31
+rlabel space 1504 6717 1504 6717 1 a32
+rlabel space 1504 6571 1504 6571 1 a33
+rlabel space 1503 6423 1503 6423 1 a34
+rlabel space 1503 6276 1503 6276 1 a35
+rlabel space 1502 6129 1502 6129 1 a36
+rlabel space 1502 5982 1502 5982 1 a37
+rlabel space 1503 5835 1503 5835 1 a38
+rlabel space 1503 5688 1503 5688 1 a39
+rlabel space 1502 5540 1502 5540 1 a3a
+rlabel space 1497 5402 1497 5402 1 a3b
+rlabel space 2043 7019 2043 7019 1 a40
+rlabel space 2044 6873 2044 6873 1 a41
+rlabel space 2043 6725 2043 6725 1 a42
+rlabel space 2044 6578 2044 6578 1 a43
+rlabel space 2044 6431 2044 6431 1 a44
+rlabel space 2044 6283 2044 6283 1 a45
+rlabel space 2043 6137 2043 6137 1 a46
+rlabel space 2043 5990 2043 5990 1 a47
+rlabel space 2042 5842 2042 5842 1 a48
+rlabel space 2043 5695 2043 5695 1 a49
+rlabel space 2044 5549 2044 5549 1 a4a
+rlabel space 2038 5390 2038 5390 1 a4b
+rlabel space 464 2970 464 2970 1 max10
+rlabel space 473 2970 473 2970 1 max11
+rlabel space 482 2967 482 2967 1 max12
+rlabel space 490 2966 490 2966 1 max13
+rlabel space 469 2760 469 2760 1 max14
+rlabel space 472 2720 472 2720 1 max15
+rlabel space 472 2661 472 2661 1 max16
+rlabel space 471 2623 471 2623 1 max17
+rlabel space 471 2564 471 2564 1 max18
+rlabel space 471 2526 471 2526 1 max19
+rlabel space 473 2462 473 2462 1 max1a
+rlabel space 463 2418 463 2418 1 max1b
+rlabel space 1676 2962 1676 2962 1 max20
+rlabel space 1667 2962 1667 2962 1 max21
+rlabel space 1658 2961 1658 2961 1 max22
+rlabel space 1647 2962 1647 2962 1 max23
+rlabel space 1670 2759 1670 2759 1 max24
+rlabel space 1669 2720 1669 2720 1 max25
+rlabel space 1670 2661 1670 2661 1 max26
+rlabel space 1670 2622 1670 2622 1 max27
+rlabel space 1670 2565 1670 2565 1 max28
+rlabel space 1667 2525 1667 2525 1 max29
+rlabel space 1669 2465 1669 2465 1 max2a
+rlabel space 1675 2418 1675 2418 1 max2b
+rlabel space 1389 1196 1389 1196 1 max30
+rlabel space 1400 1190 1400 1190 1 max31
+rlabel space 1407 1188 1407 1188 1 max32
+rlabel space 1416 1185 1416 1185 1 max33
+rlabel space 1393 990 1393 990 1 max34
+rlabel space 1395 950 1395 950 1 max35
+rlabel space 1396 892 1396 892 1 max36
+rlabel space 1395 853 1395 853 1 max37
+rlabel space 1396 793 1396 793 1 max38
+rlabel space 1394 755 1394 755 1 max39
+rlabel space 1395 695 1395 695 1 max3a
+rlabel space 1389 648 1389 648 1 max3b
+rlabel space 1901 1681 1901 1681 1 out0
+rlabel space 1897 1533 1897 1533 1 out1
+rlabel space 1896 1387 1896 1387 1 out2
+rlabel space 1896 1239 1896 1239 1 out3
+rlabel space 1896 1092 1896 1092 1 out4
+rlabel space 1895 945 1895 945 1 out5
+rlabel space 1896 799 1896 799 1 out6
+rlabel space 1896 651 1896 651 1 out7
+rlabel space 1895 504 1895 504 1 out8
+rlabel space 1895 357 1895 357 1 out9
+rlabel space 1896 210 1896 210 1 outa
+rlabel space 1892 58 1892 58 1 outb
+rlabel metal1 432 1794 432 1794 1 clk
+rlabel space 48 7057 48 7057 1 Vdd
+rlabel space 48 6910 48 6910 1 Vdd
+rlabel space 48 6764 48 6764 1 Vdd
+rlabel space 48 6616 48 6616 1 Vdd
+rlabel space 47 6763 47 6763 1 Vdd
+rlabel space 46 6467 46 6467 1 Vdd
+rlabel space 47 6322 47 6322 1 Vdd
+rlabel space 47 6177 47 6177 1 Vdd
+rlabel space 48 6029 48 6029 1 Vdd
+rlabel space 48 5878 48 5878 1 Vdd
+rlabel space 46 5734 46 5734 1 Vdd
+rlabel space 47 5586 47 5586 1 Vdd
+rlabel space 47 5438 47 5438 1 Vdd
+rlabel space 58 5303 58 5303 1 Vdd
+rlabel space 63 5178 63 5178 1 Vdd
+rlabel space 62 5048 62 5048 1 Vdd
+rlabel space 60 4919 60 4919 1 Vdd
+rlabel space 61 4790 61 4790 1 Vdd
+rlabel space 61 4662 61 4662 1 Vdd
+rlabel space 59 4531 59 4531 1 Vdd
+rlabel space 58 4402 58 4402 1 Vdd
+rlabel space 62 4275 62 4275 1 Vdd
+rlabel space 59 4145 59 4145 1 Vdd
+rlabel space 59 4017 59 4017 1 Vdd
+rlabel space 58 3887 58 3887 1 Vdd
+rlabel space 58 3747 58 3747 1 Vdd
+rlabel space 582 3487 582 3487 1 Vdd
+rlabel space 583 3342 583 3342 1 Vdd
+rlabel space 582 3194 582 3194 1 Vdd
+rlabel space 584 3048 584 3048 1 Vdd
+rlabel space 582 2897 582 2897 1 Vdd
+rlabel space 582 2750 582 2750 1 Vdd
+rlabel space 588 2610 588 2610 1 Vdd
+rlabel space 589 2459 589 2459 1 Vdd
+rlabel space 582 2311 582 2311 1 Vdd
+rlabel space 581 2167 581 2167 1 Vdd
+rlabel space 582 2017 582 2017 1 Vdd
+rlabel space 583 1872 583 1872 1 Vdd
+rlabel space 191 1841 191 1841 1 Vdd
+rlabel space 28 1704 28 1704 1 Vdd
+rlabel space 25 1573 25 1573 1 Vdd
+rlabel space 27 1443 27 1443 1 Vdd
+rlabel space 26 1316 26 1316 1 Vdd
+rlabel space 27 1186 27 1186 1 Vdd
+rlabel space 24 1058 24 1058 1 Vdd
+rlabel space 27 929 27 929 1 Vdd
+rlabel space 27 798 27 798 1 Vdd
+rlabel space 25 672 25 672 1 Vdd
+rlabel space 24 544 24 544 1 Vdd
+rlabel space 25 413 25 413 1 Vdd
+rlabel space 25 284 25 284 1 Vdd
+rlabel space 27 146 27 146 1 Vdd
+rlabel space 1876 1716 1876 1716 1 Vdd
+rlabel space 1874 1571 1874 1571 1 Vdd
+rlabel space 1873 1424 1873 1424 1 Vdd
+rlabel space 1875 1279 1875 1279 1 Vdd
+rlabel space 1880 1128 1880 1128 1 Vdd
+rlabel space 1879 983 1879 983 1 Vdd
+rlabel space 1878 837 1878 837 1 Vdd
+rlabel space 1879 691 1879 691 1 Vdd
+rlabel space 1877 541 1877 541 1 Vdd
+rlabel space 1876 393 1876 393 1 Vdd
+rlabel space 1878 249 1878 249 1 Vdd
+rlabel space 1877 99 1877 99 1 Vdd
+rlabel space 49 6996 49 6996 1 Gnd
+rlabel space 46 6845 46 6845 1 Gnd
+rlabel space 47 6701 47 6701 1 Gnd
+rlabel space 47 6553 47 6553 1 Gnd
+rlabel space 47 6405 47 6405 1 Gnd
+rlabel space 47 6258 47 6258 1 Gnd
+rlabel space 46 6112 46 6112 1 Gnd
+rlabel space 47 5965 47 5965 1 Gnd
+rlabel space 47 5817 47 5817 1 Gnd
+rlabel space 47 5673 47 5673 1 Gnd
+rlabel space 46 5526 46 5526 1 Gnd
+rlabel space 47 5376 47 5376 1 Gnd
+rlabel space 58 5214 58 5214 1 Gnd
+rlabel space 59 5085 59 5085 1 Gnd
+rlabel space 58 4957 58 4957 1 Gnd
+rlabel space 57 4827 57 4827 1 Gnd
+rlabel space 58 4700 58 4700 1 Gnd
+rlabel space 60 4571 60 4571 1 Gnd
+rlabel space 57 4442 57 4442 1 Gnd
+rlabel space 61 4313 61 4313 1 Gnd
+rlabel space 60 4183 60 4183 1 Gnd
+rlabel space 57 4054 57 4054 1 Gnd
+rlabel space 59 3925 59 3925 1 Gnd
+rlabel space 59 3797 59 3797 1 Gnd
+rlabel space 57 3657 57 3657 1 Gnd
+rlabel space 582 3424 582 3424 1 Gnd
+rlabel space 582 3278 582 3278 1 Gnd
+rlabel space 583 3133 583 3133 1 Gnd
+rlabel space 582 2985 582 2985 1 Gnd
+rlabel space 582 2839 582 2839 1 Gnd
+rlabel space 578 2690 578 2690 1 Gnd
+rlabel space 582 2542 582 2542 1 Gnd
+rlabel space 581 2398 581 2398 1 Gnd
+rlabel space 582 2248 582 2248 1 Gnd
+rlabel space 583 2102 583 2102 1 Gnd
+rlabel space 583 1954 583 1954 1 Gnd
+rlabel space 583 1807 583 1807 1 Gnd
+rlabel space 28 1612 28 1612 1 Gnd
+rlabel space 28 1485 28 1485 1 Gnd
+rlabel space 25 1354 25 1354 1 Gnd
+rlabel space 25 1225 25 1225 1 Gnd
+rlabel space 26 1099 26 1099 1 Gnd
+rlabel space 28 968 28 968 1 Gnd
+rlabel space 24 838 24 838 1 Gnd
+rlabel space 25 711 25 711 1 Gnd
+rlabel space 26 580 26 580 1 Gnd
+rlabel space 29 450 29 450 1 Gnd
+rlabel space 25 322 25 322 1 Gnd
+rlabel space 28 194 28 194 1 Gnd
+rlabel space 28 54 28 54 1 Gnd
+rlabel space 1873 1655 1873 1655 1 Gnd
+rlabel space 1873 1510 1873 1510 1 Gnd
+rlabel space 1873 1360 1873 1360 1 Gnd
+rlabel space 1877 1215 1877 1215 1 Gnd
+rlabel space 1878 1068 1878 1068 1 Gnd
+rlabel space 1877 919 1877 919 1 Gnd
+rlabel space 1877 773 1877 773 1 Gnd
+rlabel space 1879 625 1879 625 1 Gnd
+rlabel space 1876 481 1876 481 1 Gnd
+rlabel space 1875 332 1875 332 1 Gnd
+rlabel space 1877 186 1877 186 1 Gnd
+rlabel space 1875 37 1875 37 1 Gnd
+rlabel space 183 1760 183 1760 1 Gnd
+<< end >>
